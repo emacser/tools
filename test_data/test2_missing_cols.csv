@@ -1,0 +1,3 @@
+Date,Time,OpenPrice,HighPrice,LowPrice,ClosePrice,VolumeAmount
+2023-10-27,10:00:00,200,202,199,201,2000
+2023-10-27,10:01:00,201,203,200,202,2200
